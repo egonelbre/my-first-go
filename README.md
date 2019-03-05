@@ -1,6 +1,6 @@
 # My First Go
 
-This repository contains my first experiments with Go.
+This repository contains my first experiments with Go. Dating back to 2010.
 
 They are not guaranteed to work with current Go versions, since some of them are pre v1.
 
